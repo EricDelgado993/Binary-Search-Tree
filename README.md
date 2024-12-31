@@ -23,9 +23,6 @@ This project provides a comprehensive C++ implementation of a **Binary Search Tr
   - **In-order**: Visits nodes in ascending order.
   - **Pre-order**: Visits nodes in depth-first order.
   - **Post-order**: Visits children before the parent node.
-
----
-
 ### Advanced Features
 - **Dynamic Node Management**: Utilizes a custom `BSTNode` structure with support for keys and additional data.
 - **Tree Printing**: Outputs the tree structure in ascending order.
