@@ -10,5 +10,4 @@
 <b>Implementation Files</b>
   - [Test Driver](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/BinarySearchTree.cpp)
   - [BinaryTree.h](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/BinaryTree.h)
-  - [BinaryTree.cpp](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/BinaryTree.cpp)
-  - [TNode.h](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/TNode.h)
+  - [BinaryTree.cpp](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/BinarySearchTree.cpp)
