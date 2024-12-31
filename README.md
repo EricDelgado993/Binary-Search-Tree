@@ -5,11 +5,15 @@ This project provides a comprehensive C++ implementation of a **Binary Search Tr
 - Values in the left subtree are smaller than the node's value.
 - Values in the right subtree are greater than the node's value.
 
-## Implementation Files
+---
+
+## 📂 Implementation Files
 - [Test Driver](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/TestDriver.cpp)
 - [BinaryTree.h](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/BinarySearchTree.h)
 - [BinaryTree.cpp](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/BinarySearchTree.cpp)
-    
+
+---
+
 ## Key Features
 ### Core Functionalities
 - **Insertion**: Adds new elements while maintaining the BST property.
@@ -19,6 +23,8 @@ This project provides a comprehensive C++ implementation of a **Binary Search Tr
   - **In-order**: Visits nodes in ascending order.
   - **Pre-order**: Visits nodes in depth-first order.
   - **Post-order**: Visits children before the parent node.
+
+---
 
 ### Advanced Features
 - **Dynamic Node Management**: Utilizes a custom `BSTNode` structure with support for keys and additional data.
