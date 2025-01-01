@@ -27,3 +27,30 @@ This project provides a comprehensive C++ implementation of a **Binary Search Tr
 - **Dynamic Node Management**: Utilizes a custom `BSTNode` structure with support for keys and additional data.
 - **Tree Printing**: Outputs the tree structure in ascending order.
 - **Memory Management**: Implements recursive deletion to free all nodes and prevent memory leaks.
+
+---
+
+## TestDriver Output
+```plaintext
+Testing isEmpty on an empty tree: Pass
+Inserted nodes into the tree.
+Testing isEmpty on a non-empty tree: Pass
+Tree contents (in-order):
+20
+30
+40
+50
+60
+70
+80
+Testing search for key 30: Pass
+Testing search for key 100 (non-existing): Pass
+Testing delete node 20 (no children): Pass
+Testing delete node 30 (one child): Pass
+Testing delete node 50 (two children): Pass
+Tree contents (in-order) after deletions:
+40
+60
+70
+80
+Deleting the tree...
