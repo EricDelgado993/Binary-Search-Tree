@@ -8,9 +8,9 @@ This project provides a comprehensive C++ implementation of a **Binary Search Tr
 ---
 
 ## 📂 Implementation Files
-- [Test Driver](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/TestDriver.cpp)
 - [BinaryTree.h](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/BinarySearchTree.h)
 - [BinaryTree.cpp](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/BinarySearchTree.cpp)
+- [Test Driver](https://github.com/EricDelgado993/Binary-Search-Tree/blob/main/BinarySearchTree/BinarySearchTree/TestDriver.cpp)
 
 ---
 
