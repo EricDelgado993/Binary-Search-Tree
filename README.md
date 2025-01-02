@@ -32,7 +32,9 @@ This project provides a comprehensive C++ implementation of a **Binary Search Tr
 ---
 
 ## TestDriver Output
-```plaintext
+<details>
+  
+```
 Testing isEmpty on an empty tree: Pass
 Inserted nodes into the tree.
 Testing isEmpty on a non-empty tree: Pass
@@ -55,3 +57,6 @@ Tree contents (in-order) after deletions:
 70
 80
 Deleting the tree...
+```
+
+</details>
